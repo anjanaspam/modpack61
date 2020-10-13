@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="om" table="test">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="bhaagi" table="test">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Om</column_label>
+        <column_label>Bhaagi</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>om</element>
+        <element>bhaagi</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 15:18:11</sys_created_on>
-        <sys_id>24aaebce53f3101071a3ddeeff7b120c</sys_id>
+        <sys_created_on>2020-10-13 15:38:35</sys_created_on>
+        <sys_id>8f4fef425337101071a3ddeeff7b12a6</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Om</sys_name>
+        <sys_name>Bhaagi</sys_name>
         <sys_package display_value="pazham1" source="a85aa3ce53f3101071a3ddeeff7b12f4">a85aa3ce53f3101071a3ddeeff7b12f4</sys_package>
         <sys_policy/>
         <sys_scope display_value="pazham2">186a27ce53f3101071a3ddeeff7b1227</sys_scope>
-        <sys_update_name>sys_dictionary_test_om</sys_update_name>
+        <sys_update_name>sys_dictionary_test_bhaagi</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 15:22:03</sys_updated_on>
+        <sys_updated_on>2020-10-13 15:40:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -75,30 +75,30 @@
     </sys_dictionary>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="pazham2">186a27ce53f3101071a3ddeeff7b1227</claim_owner_scope>
-        <claim_timestamp>175228d96150000001</claim_timestamp>
-        <metadata_update_name>sys_dictionary_test_om</metadata_update_name>
+        <claim_timestamp>175229e3c0f0000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_test_bhaagi</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>pazham2</previous_claim_name>
         <previous_claim_scope>186a27ce53f3101071a3ddeeff7b1227</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 15:21:45</sys_created_on>
-        <sys_id>437b27025337101071a3ddeeff7b1215</sys_id>
+        <sys_created_on>2020-10-13 15:39:56</sys_created_on>
+        <sys_id>99af27825337101071a3ddeeff7b12f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 15:21:45</sys_updated_on>
+        <sys_updated_on>2020-10-13 15:39:56</sys_updated_on>
     </sys_claim>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="pazham2">186a27ce53f3101071a3ddeeff7b1227</claim_owner_scope>
-        <claim_timestamp>175228d960d0000001</claim_timestamp>
-        <metadata_update_name>sys_dictionary_test_om</metadata_update_name>
+        <claim_timestamp>175229e3c0c0000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_test_bhaagi</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>pazham1</previous_claim_name>
         <previous_claim_scope>a85aa3ce53f3101071a3ddeeff7b12f4</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 15:21:45</sys_created_on>
-        <sys_id>077b27025337101071a3ddeeff7b1215</sys_id>
+        <sys_created_on>2020-10-13 15:39:56</sys_created_on>
+        <sys_id>5daf27825337101071a3ddeeff7b12f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 15:21:45</sys_updated_on>
+        <sys_updated_on>2020-10-13 15:39:56</sys_updated_on>
     </sys_claim>
 </record_update>
